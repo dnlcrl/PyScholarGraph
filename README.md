@@ -18,6 +18,10 @@ Read how below.
 - [colour](https://pypi.python.org/pypi/colour)
 - [numpy](https://pypi.python.org/pypi/numpy)
 
-For now you can move in the "example" folder and run python ../src/graph.py
+# Generate From Example Data
+
+move in the "example" folder and run python ../src/graph.py
+
+P.S.
 
 Note that there is a lot of redundancy in the example data.
