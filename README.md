@@ -9,6 +9,6 @@ WIP: There still is a lot of work to do here, stay tuned!
 - [colour](https://pypi.python.org/pypi/colour)
 - [numpy](https://pypi.python.org/pypi/numpy)
 
-For now you can move in the "example" folder and run python ../graph.py
+For now you can move in the "example" folder and run python ../src/graph.py
 
 Note that there is a lot of redundancy in the example data.
