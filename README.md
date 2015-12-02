@@ -20,9 +20,9 @@ Read how below.
 
 # Generate From Example Data
 
-move in the "example" folder and run python 
+move in the "example" folder and run 
 
-  ../src/graph.py
+    python ../src/graph.py
 
 P.S.
 
