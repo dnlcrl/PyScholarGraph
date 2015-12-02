@@ -8,7 +8,7 @@ WIP: There still is a lot of work to do here, stay tuned!
 
 ![Graph](https://dnlcrl.github.io/assets/dl-gviz/47.png)
 
-# Now You Can :stuck_out_tongue_winking_eye:
+# Now You Can! :stuck_out_tongue_winking_eye:
 
 Read how below.
 
