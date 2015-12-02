@@ -1,3 +1,10 @@
+# OS X Cache files
+.DS_Store
+
+# zip files
+.zip
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
