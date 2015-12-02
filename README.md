@@ -1,7 +1,15 @@
 # PyScholarGraph
 Code for "Five Hundred Deep Learning Papers, Graphviz and Python" (http://bit.ly/500DLPapers)
 
+
 WIP: There still is a lot of work to do here, stay tuned!
+
+# Want to Create a Graph Like This?
+
+![Graph](https://dnlcrl.github.io/assets/dl-gviz/47.png)
+
+Now You Can :stuck_out_tongue_winking_eye:
+
 
 # Prerequisites:
 
